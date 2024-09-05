@@ -19,7 +19,7 @@ body{
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #result{
-	height: 120px;
+	height: 121px;
 }
 #history{
 	text-align: right;
@@ -36,7 +36,7 @@ body{
 	font-size: 30px;
 }
 #keyboard{
-	height: 400px;
+	height: 401px;
 }
 .operator, .number, .empty{
 	width: 50px;
